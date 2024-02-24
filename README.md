@@ -1,4 +1,6 @@
 Vehicle Number Plate Detection under Different Environmental Conditions - Machine Learning
+
+
 This repository contains the code and documentation for a project focused on developing a robust vehicle number plate detection system capable of accurate operation under diverse environmental conditions.
 
 # Project Description:
