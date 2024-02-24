@@ -17,7 +17,7 @@ The project aims to develop an image processing system that can detect vehicle n
 - NumPy 1.22.4
 - Pytesseract 0.3.10
 
-### Installation:
+# Installation:
 1. Clone this repository to your local machine.
 2. Install the required dependencies mentioned above.
 3. Run the main script to execute the number plate detection system.
